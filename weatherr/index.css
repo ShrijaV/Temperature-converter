@@ -1,0 +1,38 @@
+*{
+    background-color: cadetblue;
+    
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color: black;
+}
+i{
+    padding: 10px;
+    color: black;
+}
+.container{
+    text-align: center;
+    margin-top: 200px;
+}
+
+input{
+    border-color: firebrick;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.button{
+    background-color: color-mix(in hsl shorter hue,  percentage, color percentage);
+    padding: 12px;
+    border-radius: 22px;
+}
+button:hover{
+    color: aqua;
+}
+
+label{
+    font-size: 22px;
+    color: sienna;
+}
